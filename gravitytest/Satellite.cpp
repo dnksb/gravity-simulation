@@ -1,6 +1,5 @@
 #include "Satellite.h"
 
-
 Satellite::Satellite(sf::Vector2f pos, std::string img, sf::Vector2f acc, sf::Vector2f sp) {
 	position = pos;
 	accel = acc;
